@@ -1,0 +1,22 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 2px solid rgba(230, 225, 225, 0.838);
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f0f0f0;
+        }
+        
+        #del-btn{
+            background-color: #4CAF50;
+            color: white;
+        }
